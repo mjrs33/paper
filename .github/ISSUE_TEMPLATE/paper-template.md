@@ -1,9 +1,9 @@
 ---
 name: paper template
 about: To summarize the paper
-title: ''
+title: "[year] title"
 labels: ''
-assignees: mjrs33
+assignees: ''
 
 ---
 
